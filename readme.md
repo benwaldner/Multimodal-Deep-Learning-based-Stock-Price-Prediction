@@ -1,3 +1,7 @@
+# Personal notes:
+
+-- Additional data: News 
+
 # Stock price prediction from news headline using RNN
 > [https://github.com/ranakroychowdhury/Multimodal-Deep-Learning-based-Stock-Price-Prediction.git](https://github.com/ranakroychowdhury/Multimodal-Deep-Learning-based-Stock-Price-Prediction.git)
 
